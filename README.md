@@ -6,7 +6,7 @@ Ayomide is my name. I am a Smart Contract Developer with the understanding of th
 <!-- - ⚡ Exploring Docker and Kubernetes. -->
 - 😄 Pronouns: He/Him.
 - ⚡ Exploring Solidity [Smart Contract Development].
-- 🌱 I’m currently learning Diamond standard
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayomide-adebara-69b58219a/)](https://www.linkedin.com/in/ayomide-adebara-69b58219a/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adebaraayomide@gmail.com)](mailto:adebaraayomide@gmail.com)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HaryomiteW)](https://twitter.com/HaryomiteW)
