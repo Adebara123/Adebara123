@@ -1,7 +1,7 @@
 ## Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-Ayomide is my name. I am a blockchain developer with experience building smart contracts on both EVM and non-EVM compatible blockchains using Rust. P.S :  I love Rust.
+Ayomide is my name. I am a blockchain developer with experience building smart contracts on both EVM (Solidity) and non-EVM (Rust: ink, concordium) compatible blockchains . P.S :  I love Rust.
 <!-- - ⚡ Exploring Docker and Kubernetes. -->
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayomide-adebara-69b58219a/)](https://www.linkedin.com/in/ayomide-adebara-69b58219a/) 
